@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/spdx-license-list/
 License:	MIT
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:  python%{pyver}dist(poetry-core)
 BuildSystem:	python
 BuildArch:	noarch
 
