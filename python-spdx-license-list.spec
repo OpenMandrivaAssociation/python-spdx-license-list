@@ -1,7 +1,7 @@
 %define module spdx_license_list
 
 Name:		python-spdx-license-list
-Version:	3.28.0
+Version:	3.29.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/s/spdx-license-list/%{module}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	SPDX License List as a Python dictionary
